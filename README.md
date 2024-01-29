@@ -39,13 +39,15 @@ This repository contains 5 labs focusing on Statistics and Machine Learning conc
 
 ## Getting Started 🚀
 
-1. Clone the repository: `git clone https://github.com/your-username/stats-ml-labs.git`
+1. Clone the repository: `git clone https://github.com/ivanovsdesign/labs_stats_ml`
 2. Navigate to the desired lab folder.
 3. Follow the instructions in the lab's README for setup and exercises.
 
 ```bash
-cd stats-ml-labs/lab_1
-Lab Structure 🧪
+cd lab_stats_ml/lab_1
+```
+
+## Lab Structure 🧪
 Each lab folder contains:
 
 README.md: Lab overview, instructions, and exercises.
@@ -54,7 +56,7 @@ Data/: Datasets for lab exercises.
 Contributing 🤝
 Contributions are encouraged! If you have ideas for new labs, improvements, or bug fixes, feel free to open issues or submit pull requests.
 
-License 📝
+## License 📝
 This repository is licensed under the MIT License.
 
 Happy learning and experimenting! 🧠🤓

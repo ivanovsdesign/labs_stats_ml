@@ -50,13 +50,14 @@ cd lab_stats_ml/lab_1
 ## Lab Structure 🧪
 Each lab folder contains:
 
-README.md: Lab overview, instructions, and exercises.
-Code/: Source code and solutions.
-Data/: Datasets for lab exercises.
-Contributing 🤝
+- README.md: Lab overview, instructions, and exercises.
+- Code/: Source code and solutions.
+- Data/: Datasets for lab exercises.
+- 
+## Contributing 🤝
 Contributions are encouraged! If you have ideas for new labs, improvements, or bug fixes, feel free to open issues or submit pull requests.
 
 ## License 📝
-This repository is licensed under the MIT License.
+No licesne is provided 
 
 Happy learning and experimenting! 🧠🤓
